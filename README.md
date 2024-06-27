@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning Flutter and JS
 - 📫 How to reach me:
-    Telegram: [https](https://t.me/mr_makhammatov)
+    Telegram: [here](https://t.me/mr_makhammatov)
 - ⚡ Fun fact: I am good at football and online games
 
 <!---
