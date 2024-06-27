@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @makhammatovb
 - 👀 I’m interested in learning new skills
 - 🌱 I’m currently learning Flutter and JS
-- 📫 How to reach me: Telegram: [https](https://t.me/mr_makhammatov)
+- 📫 How to reach me:
+    Telegram: [https]https://t.me/mr_makhammatov
+    Email: [https]makhammatoffb@gmail.com
 - ⚡ Fun fact: I am good at football and online games
 
 <!---
