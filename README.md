@@ -4,6 +4,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=makhammatovb&theme=dark)
 
 ## 🌐 Socials:
+[![Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=social&logo=telegram)](https://t.me/mr_makhammatov)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_makhammatov) 
 
 # 📊 GitHub Stats:
