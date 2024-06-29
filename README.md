@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @makhammatovb
-- 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning Flutter and JS
-- 📫 How to reach me:
-    Telegram: [here](https://t.me/mr_makhammatov)
-- ⚡ Fun fact: I am good at football and online games
+# [Bobirmirzo Maxammatov]
 
-<!---
-makhammatovb/makhammatovb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=makhammatovb&show_icons=true&theme=dark)
+
+## Top Languages by Repo
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makhammatovb&layout=compact&theme=dark)
+
+## Stats
+- Total Stars: ![Stars](https://img.shields.io/github/stars/makhammatovb?label=Total%20Stars)
+- 2024 Commits: 17
+- Total PRs: 11
+- Total Issues: 0
+- Contributed to: 21
+
+## Socials
+[![Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=social&logo=telegram)](https://t.me/mr_makhammatov)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=social&logo=instagram)](https://instagram.com/mr_makhammatov)
